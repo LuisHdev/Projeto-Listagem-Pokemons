@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto "Listagem de Pokémons" foi um evento de oficina realizado com o canal DevemDobro e é uma página que apresenta alguns pokémons, seus detalhes e características e a página também conta com um modo escuro!
 
- - [Visite o projeto online](https://luishdev.github.io/Projeto-Listagem-Pokémons/)
+ - [Visite o projeto online](https://luishdev.github.io/Projeto-Listagem-Pokemons/)
 
 
 ## :memo: Licença
