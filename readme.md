@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Listagem do Pokémons" src=".github/preview.jpg" width="100%">
+  <img alt="Listagem do Pokémons" src="midia/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
